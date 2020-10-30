@@ -23,5 +23,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMore&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewMore&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" /> 
+<a href="https://github.com/AndrewMore/AndrewMore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMore&theme=dracula" />
+</a>
+<a href="https://github.com/AndrewMore/AndrewMore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewMore&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" /> 
+</a>
