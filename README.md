@@ -14,16 +14,16 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Frontend-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Sass-informational?style=plastic&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-React-informational?style=plastic&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Gatsby-informational?style=plastic&logo=gatsby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/_-GraphQL-informational?style=plastic&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/_-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CMS-Wordpress-informational?style=plastic&logo=wordpress&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
