@@ -1,10 +1,10 @@
-## [![Andrew More's header](https://github.com/AndrewMore/AndrewMore/blob/main/Andrew's_banner.jpg)](https://andrewdmore.com)
+## [![Andrew More's header](https://github.com/AndrewMore/AndrewMore/blob/main/icon/Andrew's_banner.jpg)](https://andrewdmore.com)
 
 <p align='center'>
-<!-- <a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/andrewdmore/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<!-- <a href="https://dev.to/andrewmore"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/andrewmore"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/andrewmore"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/andrewdmore/"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 <h2 align="center">Hi there! I'm Andrew More, a Full-Stack Software Engineer looking for my next professional opportunity in the Los Angeles area. 👋</h2>
@@ -27,5 +27,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMore&theme=dracula" />
 </a>
 <a href="https://github.com/AndrewMore/AndrewMore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewMore&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewMore&count_private=true&include_all_commits=true&show_icons=true&hide=prs,issues&theme=dracula" />
 </a>
