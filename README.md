@@ -1,4 +1,4 @@
-## [![Andrew More's header](https://github.com/AndrewMore/AndrewMore/blob/main/icon/Andrew's_banner.jpg)](https://andrewdmore.com)
+## [![Andrew More's header](https://github.com/AndrewMore/AndrewMore/blob/main/icon/Andrew'sBanner.jpg)](https://andrewdmore.com)
 
 <p align='center'>
 <!-- <a href="https://dev.to/andrewmore"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
