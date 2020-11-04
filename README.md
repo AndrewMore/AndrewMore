@@ -3,7 +3,7 @@
 <p align='center'>
 <a href="https://dev.to/andrewmore"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SelfMadeGuapo"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<!-- <a href="https://www.instagram.com/selfmadeguapo/"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
+<a href="https://www.instagram.com/selfmadeguapo/"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andrewdmore/"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
