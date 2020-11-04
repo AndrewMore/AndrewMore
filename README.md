@@ -15,7 +15,7 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Frontend-Sass-informational?style=plastic&logo=sass&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a&label=%20)
+![](https://img.shields.io/badge/FullStack-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a&label=%20)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=plastic&logo=react&logoColor=white&color=2bbc8a&label=%20)
 ![](https://img.shields.io/badge/Frontend-Gatsby-informational?style=plastic&logo=gatsby&logoColor=white&color=2bbc8a&label=%20)
 ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=2bbc8a&label=%20)
