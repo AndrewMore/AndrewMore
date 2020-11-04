@@ -10,7 +10,7 @@
 <h2 align="center">Hi there! I'm Andrew More, a Full-Stack Software Engineer looking for my next professional opportunity in the Los Angeles area. 👋</h2>
 <p align="center">I am a full stack engineer and project manager with deep understanding of modern web and mobile technologies, from California. I am driven by creative problem solving, continuous learning, and teamwork, and am passionate about building applications that improve workflows and create efficiencies for the end user.</p>
 
-<p align="center">As a former Marine, with 15+ years of leadership and project management experience, I have a strong foundation in communication, collaboration, relationship building, and am experienced in working with technical teams and applying agile methodologies to software development. I thrive working in team-oriented organizations that value the diverse perspectives of their employees. When I am not immersed in coding, management, or entrepreneurship, I enjoy hiking, paintballing, scuba diving, cooking, and spending quality time with my family and friends.</p>
+<p align="center">As a former Marine, with 15+ years of leadership experience, I have a strong foundation in communication, collaboration, relationship building, and am experienced in working with technical teams and applying agile methodologies to software development. I thrive working in team-oriented organizations that value the diverse perspectives of their employees. When I am not immersed in coding, management, or entrepreneurship, I enjoy hiking, paintballing, scuba diving, cooking, and spending quality time with my family and friends.</p>
 
 ## 🔧 Technologies & Tools
 
