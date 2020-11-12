@@ -7,7 +7,9 @@
 <a href="https://www.linkedin.com/in/andrewdmore/"><img height="30" src="https://github.com/AndrewMore/AndrewMore/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<img align="center" src="badges/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
+<p align='center'>
+<img src="badges/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
+</p>
 
 <h2 align="center">Hi there! I'm Andrew More, a Full-Stack Software Engineer looking for my next professional opportunity in the Los Angeles area. 👋</h2>
 <p align="center">I am a full stack engineer and project manager with deep understanding of modern web and mobile technologies, from California. I am driven by creative problem solving, continuous learning, and teamwork, and am passionate about building applications that improve workflows and create efficiencies for the end user.</p>
