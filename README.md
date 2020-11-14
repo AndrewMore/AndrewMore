@@ -19,27 +19,21 @@
 ## 🔧 Technologies & Tools
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+### Languages
 ![](badges/dev/languages/html.svg)
 ![](badges/dev/languages/css3.svg)
 ![](badges/dev/languages/js.svg)
 ![](badges/dev/languages/sass.svg)
+
+### Frameworks
 ![](badges/dev/frameworks/bootstrap.svg)
 ![](badges/dev/frameworks/jquery.svg)
 ![](badges/dev/frameworks/nodejs.svg)
 ![](badges/dev/frameworks/react.svg)
+
+### Dev Tools
 ![](badges/dev/services/aws.svg)
 ![](badges/dev/services/npm.svg)
-
-<!-- ![](https://img.shields.io/badge/Frontend-Sass-informational?style=plastic&logo=sass&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/FullStack-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/Frontend-React-informational?style=plastic&logo=react&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/Frontend-Gatsby-informational?style=plastic&logo=gatsby&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/Backend-NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/API-GraphQL-informational?style=plastic&logo=graphql&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=2bbc8a&label=%20)
-![](https://img.shields.io/badge/CMS-Wordpress-informational?style=plastic&logo=wordpress&logoColor=white&color=2bbc8a&label=%20) -->
 
 ## &#x1f4c8; GitHub Stats
 
